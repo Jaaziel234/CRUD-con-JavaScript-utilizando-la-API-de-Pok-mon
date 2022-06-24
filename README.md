@@ -1,1 +1,1 @@
-# CRUD-con-JavaScript-utilizando-la-API-de-Pok-mon
+# CRUD-con-JavaScript-utilizando-la-API-de-Pokemon
